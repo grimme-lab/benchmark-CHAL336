@@ -259,6 +259,7 @@ tmp.input
 # other
 .RMSD
 *.lock*
+*.pdf
 
 # copied files in method dirs
 */*/*/coord
