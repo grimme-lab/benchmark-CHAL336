@@ -17,7 +17,7 @@ The geometries were taken from the original publication of CHAL336.
   - `CHAL-X-*` (119 reactions): chalcogen···halide interactions (charged systems).
 - **Reference Level**: W1-F12 (for smaller systems) and DLPNO-CCSD(T)-based composite reference complexation energies in kcal/mol.
 - **Geometries**: Located inside the `CHAL336/` folder, structured as standard `mol.xyz` files. Charges are specified in `.CHRG` files.
-- **Evaluation**: The `.res` file contains reference complexation energies in kcal/mol. Use the `tmer2++` script to evaluate calculated energies against these references.
+- **Evaluation**: The `.res` file contains reference complexation energies in kcal/mol. Use the [`tmer2++`](https://github.com/grimme-lab/tmer2) script to evaluate calculated energies against these references.
 
 ## Utils
 
